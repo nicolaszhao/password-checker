@@ -2,7 +2,7 @@
 
 Password Checker is a jQuery plugin to detect the strength of the password entered by the user.
 
-**Current version:** [0.2.0]()
+**Current version:** [0.2.0](https://github.com/nicolaszhao/password-checker/archive/v0.2.0.tar.gz)
 
 ## Usage
 Include jQuery and the plugin on your page. Then select a password input and call the passwordChecker method on DOM ready.
