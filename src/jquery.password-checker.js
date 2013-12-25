@@ -1,6 +1,6 @@
 /*
  * password-checker
- * https://github.com/Nicolas/password-checker
+ * https://github.com/nicolaszhao/password-checker
  *
  * Copyright (c) 2013 Nicolas Zhao
  * Licensed under the MIT license.
