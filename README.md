@@ -34,7 +34,7 @@ Type: Array
 The colors of strength level.
 
 ## Theming
-If paging button and paging numbers specific styling is needed, the following CSS class names can be used:
+If the password checker specific styling is needed, the following CSS class names can be used:
 * `.password-checker`: The outer container of the password checker.
 	* `.password-checker-text`: The text of the password checker.
 	* `.password-checker-value`: The color of the password checker.
