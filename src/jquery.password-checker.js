@@ -88,6 +88,7 @@
 		},
 		
 		hide: function() {
+			clearTimeout(this.inputTimeId);
 			this.$checker.hide()
 				.find('.password-checker-text').text('')
 				.siblings('.password-checker-value').css('background', 'none');
